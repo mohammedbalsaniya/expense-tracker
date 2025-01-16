@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # expense-tracker
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# expense-tracker
+>>>>>>> ad142d4eb89e0937d3c840c6d2dc90e7fcb552a9
